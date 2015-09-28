@@ -1,0 +1,7 @@
+---
+  # Are subdomains considered part of the site?
+  accept_subdomains: true
+  # Wait this many seconds between requests
+  interval: 0
+  # How many failures before a resource is considered dead?
+  max_retries: 3
